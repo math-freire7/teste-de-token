@@ -20,6 +20,8 @@ Donec diam justo, suscipit consectetur sagittis in, tristique sit amet felis. Nu
 
 Nullam at purus eu felis suscipit cursus at a felis. Donec sed nisl a risus egestas lobortis. Suspendisse laoreet tortor vel dignissim volutpat. Suspendisse sed rhoncus magna, vitae ullamcorper diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut sagittis at tortor quis mollis. Quisque a ullamcorper dolor. Maecenas tempor dictum tempus. Maecenas faucibus luctus accumsan. Cras condimentum eu lectus ut euismod. Vivamus maximus nunc id faucibus lobortis. Morbi tristique ullamcorper ullamcorper.
 
+![](generico.jpeg)
+
 Deve conter uma lista assim:
 - Primeiro
 - Segundo
